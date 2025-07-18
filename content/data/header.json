@@ -59,7 +59,7 @@
         "type": "ImageBlock",
         "url": "/images/logo-photoaidcom-invert.jpeg",
         "altText": "Image alt text placeholder",
-        "elementId": "",
+        "elementId": "hj",
         "styles": {
             "self": {
                 "borderRadius": "medium"
