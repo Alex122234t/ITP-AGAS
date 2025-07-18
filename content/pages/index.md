@@ -120,7 +120,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/WhatsApp Image 2024-11-08 at 14.47.00 (1).jpeg
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
