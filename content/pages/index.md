@@ -45,7 +45,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        subtitle: Numbers Done
+        subtitle: ''
         text: ''
         actions: []
         elementId: null
