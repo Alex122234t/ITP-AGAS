@@ -70,7 +70,7 @@ sections:
               borderRadius: x-large
           url: /images/poza 1.jpg
       - title: ''
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
