@@ -43,28 +43,6 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: ''
-        subtitle: ''
-        text: ''
-        image:
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-          url: /images/remor.jpeg
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - type: FeaturedItem
         title: ''
         subtitle: ''
@@ -91,6 +69,28 @@ sections:
             self:
               borderRadius: x-large
           url: /images/poza 1.jpg
+      - title: ''
+        subtitle: ''
+        text: ''
+        image:
+          altText: Featured icon two
+          elementId: ''
+          type: ImageBlock
+          url: /images/remor.jpeg
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+        type: FeaturedItem
     actions: []
     badge:
       label: This is a badge
