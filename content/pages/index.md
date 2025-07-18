@@ -68,6 +68,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/poza 1.jpg
       - title: 20x
         subtitle: The Job Stuff
         text: >-
