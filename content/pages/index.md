@@ -71,10 +71,7 @@ sections:
           url: /images/poza 1.jpg
       - title: ''
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           altText: Featured icon two
           elementId: ''
