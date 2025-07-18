@@ -76,6 +76,7 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          url: /images/remor.jpeg
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
